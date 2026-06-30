@@ -9,6 +9,38 @@ The app is built using **Streamlit**, which provides an interactive web interfac
 
 ---
 
+# Folder Structure
+Loan-Approval-Prediction-System
+│
+├── models/
+│   ├── logistic_regression.pkl
+│   ├── decision_tree.pkl
+│   ├── random_forest.pkl
+│   ├── scaler.pkl
+│   ├── feature_names.pkl
+│
+├── data/
+│   ├── raw_data.csv
+│   ├── cleaned_data.csv
+│   ├── test_data.csv
+│
+├── preprocessing/
+│   ├── data_cleaning.py
+│   ├── feature_engineering.py
+│
+├── results/
+│   ├── model_metrics.xlsx
+│   ├── classification_report.txt
+│
+├── streamlit_app/
+│   └── app.py
+│
+├── training/
+│   └── main.py
+│
+├── requirements.txt
+└── README.md
+
 ## 🧠 Machine Learning Models Used
 - Logistic Regression
 - Decision Tree
