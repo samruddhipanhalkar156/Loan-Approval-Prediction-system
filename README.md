@@ -10,7 +10,7 @@ The app is built using **Streamlit**, which provides an interactive web interfac
 ---
 
 # Folder Structure
-``
+`
 Loan-Approval-Prediction-System
 │
 ├── models/
@@ -41,7 +41,7 @@ Loan-Approval-Prediction-System
 │
 ├── requirements.txt
 └── README.md
-``
+`
 
 ## 🧠 Machine Learning Models Used
 - Logistic Regression
