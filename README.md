@@ -60,4 +60,4 @@ streamlit run app.py
 ---
 
 ## 📌 Author
-Your Name
+Name : Samruddhi Panhlkar
